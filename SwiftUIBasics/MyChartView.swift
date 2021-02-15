@@ -1,5 +1,5 @@
 //
-//  ViewChartExample.swift
+//  MyChartView.swift
 //  SwiftUIBasics
 //
 //  Created by newtan on 2021-02-14.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ViewChartExample: View {
+struct MyChartView: View {
     var body: some View {
         ZStack {
             Color.gray.edgesIgnoringSafeArea(.all)
@@ -70,8 +70,8 @@ struct ViewChartExample: View {
     }
 }
 
-struct ViewChartExample_Previews: PreviewProvider {
+struct MyChartView_Previews: PreviewProvider {
     static var previews: some View {
-        ViewChartExample()
+        MyChartView()
     }
 }

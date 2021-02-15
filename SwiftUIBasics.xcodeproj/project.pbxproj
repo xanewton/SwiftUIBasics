@@ -13,7 +13,7 @@
 		46E8993C25D9F158000C0783 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46E8993B25D9F158000C0783 /* Preview Assets.xcassets */; };
 		46E8994625D9F1FA000C0783 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46E8994425D9F1FA000C0783 /* LICENSE.txt */; };
 		46E8994725D9F1FA000C0783 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46E8994525D9F1FA000C0783 /* README.md */; };
-		46E8994B25D9F5D3000C0783 /* ViewChartExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */; };
+		46E8994B25D9F5D3000C0783 /* MyChartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8994A25D9F5D3000C0783 /* MyChartView.swift */; };
 		46E8996D25D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995025D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift */; };
 		46E8996E25D9F73B000C0783 /* ViewLayoutVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995125D9F73B000C0783 /* ViewLayoutVStack.swift */; };
 		46E8996F25D9F73B000C0783 /* ViewLayoutList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995225D9F73B000C0783 /* ViewLayoutList.swift */; };
@@ -52,7 +52,7 @@
 		46E8993D25D9F158000C0783 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		46E8994425D9F1FA000C0783 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		46E8994525D9F1FA000C0783 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewChartExample.swift; sourceTree = "<group>"; };
+		46E8994A25D9F5D3000C0783 /* MyChartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyChartView.swift; sourceTree = "<group>"; };
 		46E8995025D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutScrollHorizontal.swift; sourceTree = "<group>"; };
 		46E8995125D9F73B000C0783 /* ViewLayoutVStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutVStack.swift; sourceTree = "<group>"; };
 		46E8995225D9F73B000C0783 /* ViewLayoutList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutList.swift; sourceTree = "<group>"; };
@@ -119,7 +119,7 @@
 				46E8995C25D9F73B000C0783 /* Views and Controls */,
 				46E8993425D9F157000C0783 /* SwiftUIBasicsApp.swift */,
 				46E8993625D9F157000C0783 /* ContentView.swift */,
-				46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */,
+				46E8994A25D9F5D3000C0783 /* MyChartView.swift */,
 				46E8993825D9F158000C0783 /* Assets.xcassets */,
 				46E8993D25D9F158000C0783 /* Info.plist */,
 				46E8993A25D9F158000C0783 /* Preview Content */,
@@ -259,7 +259,7 @@
 				46E8997725D9F73B000C0783 /* ViewLayoutZStackAlignment.swift in Sources */,
 				46E8996F25D9F73B000C0783 /* ViewLayoutList.swift in Sources */,
 				46E8997C25D9F73B000C0783 /* ViewsAndControlsTextI.swift in Sources */,
-				46E8994B25D9F5D3000C0783 /* ViewChartExample.swift in Sources */,
+				46E8994B25D9F5D3000C0783 /* MyChartView.swift in Sources */,
 				46E8997025D9F73B000C0783 /* ViewLayoutHStack.swift in Sources */,
 				46E8997B25D9F73B000C0783 /* ViewsAndControlsButtonI.swift in Sources */,
 				46E8997925D9F73B000C0783 /* ViewsAndControlsSecureField.swift in Sources */,
