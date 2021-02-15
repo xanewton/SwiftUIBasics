@@ -14,6 +14,33 @@
 		46E8994625D9F1FA000C0783 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46E8994425D9F1FA000C0783 /* LICENSE.txt */; };
 		46E8994725D9F1FA000C0783 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 46E8994525D9F1FA000C0783 /* README.md */; };
 		46E8994B25D9F5D3000C0783 /* ViewChartExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */; };
+		46E8996D25D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995025D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift */; };
+		46E8996E25D9F73B000C0783 /* ViewLayoutVStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995125D9F73B000C0783 /* ViewLayoutVStack.swift */; };
+		46E8996F25D9F73B000C0783 /* ViewLayoutList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995225D9F73B000C0783 /* ViewLayoutList.swift */; };
+		46E8997025D9F73B000C0783 /* ViewLayoutHStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995325D9F73B000C0783 /* ViewLayoutHStack.swift */; };
+		46E8997125D9F73B000C0783 /* ViewLayoutScrollVertical.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995425D9F73B000C0783 /* ViewLayoutScrollVertical.swift */; };
+		46E8997225D9F73B000C0783 /* ViewLayoutGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995525D9F73B000C0783 /* ViewLayoutGroup.swift */; };
+		46E8997325D9F73B000C0783 /* ViewLayoutZStackIgnore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995625D9F73B000C0783 /* ViewLayoutZStackIgnore.swift */; };
+		46E8997425D9F73B000C0783 /* ViewLayoutHStackSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995725D9F73B000C0783 /* ViewLayoutHStackSpacer.swift */; };
+		46E8997525D9F73B000C0783 /* ViewLayoutForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995825D9F73B000C0783 /* ViewLayoutForEach.swift */; };
+		46E8997625D9F73B000C0783 /* ViewLayoutZStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995925D9F73B000C0783 /* ViewLayoutZStack.swift */; };
+		46E8997725D9F73B000C0783 /* ViewLayoutZStackAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995A25D9F73B000C0783 /* ViewLayoutZStackAlignment.swift */; };
+		46E8997825D9F73B000C0783 /* ViewLayoutVStackSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995B25D9F73B000C0783 /* ViewLayoutVStackSpacer.swift */; };
+		46E8997925D9F73B000C0783 /* ViewsAndControlsSecureField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995D25D9F73B000C0783 /* ViewsAndControlsSecureField.swift */; };
+		46E8997A25D9F73B000C0783 /* ViewsAndControlsButtonII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995E25D9F73B000C0783 /* ViewsAndControlsButtonII.swift */; };
+		46E8997B25D9F73B000C0783 /* ViewsAndControlsButtonI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8995F25D9F73B000C0783 /* ViewsAndControlsButtonI.swift */; };
+		46E8997C25D9F73B000C0783 /* ViewsAndControlsTextI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996025D9F73B000C0783 /* ViewsAndControlsTextI.swift */; };
+		46E8997D25D9F73B000C0783 /* ViewsAndControlsTextFieldII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996125D9F73B000C0783 /* ViewsAndControlsTextFieldII.swift */; };
+		46E8997E25D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996225D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift */; };
+		46E8997F25D9F73B000C0783 /* ViewsAndControlsSFSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996325D9F73B000C0783 /* ViewsAndControlsSFSymbol.swift */; };
+		46E8998025D9F73B000C0783 /* ViewsAndControlsTextII.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996425D9F73B000C0783 /* ViewsAndControlsTextII.swift */; };
+		46E8998125D9F73B000C0783 /* ViewsAndControlsImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996525D9F73B000C0783 /* ViewsAndControlsImage.swift */; };
+		46E8998225D9F73B000C0783 /* ViewsAndControlsTextFieldI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996625D9F73B000C0783 /* ViewsAndControlsTextFieldI.swift */; };
+		46E8998325D9F73B000C0783 /* ShapesEllipse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996825D9F73B000C0783 /* ShapesEllipse.swift */; };
+		46E8998425D9F73B000C0783 /* ShapesCapsule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996925D9F73B000C0783 /* ShapesCapsule.swift */; };
+		46E8998525D9F73B000C0783 /* ShapesRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996A25D9F73B000C0783 /* ShapesRoundedRectangle.swift */; };
+		46E8998625D9F73B000C0783 /* ShapesCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996B25D9F73B000C0783 /* ShapesCircle.swift */; };
+		46E8998725D9F73B000C0783 /* ShapesRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996C25D9F73B000C0783 /* ShapesRectangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +53,33 @@
 		46E8994425D9F1FA000C0783 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		46E8994525D9F1FA000C0783 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewChartExample.swift; sourceTree = "<group>"; };
+		46E8995025D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutScrollHorizontal.swift; sourceTree = "<group>"; };
+		46E8995125D9F73B000C0783 /* ViewLayoutVStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutVStack.swift; sourceTree = "<group>"; };
+		46E8995225D9F73B000C0783 /* ViewLayoutList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutList.swift; sourceTree = "<group>"; };
+		46E8995325D9F73B000C0783 /* ViewLayoutHStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutHStack.swift; sourceTree = "<group>"; };
+		46E8995425D9F73B000C0783 /* ViewLayoutScrollVertical.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutScrollVertical.swift; sourceTree = "<group>"; };
+		46E8995525D9F73B000C0783 /* ViewLayoutGroup.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutGroup.swift; sourceTree = "<group>"; };
+		46E8995625D9F73B000C0783 /* ViewLayoutZStackIgnore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutZStackIgnore.swift; sourceTree = "<group>"; };
+		46E8995725D9F73B000C0783 /* ViewLayoutHStackSpacer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutHStackSpacer.swift; sourceTree = "<group>"; };
+		46E8995825D9F73B000C0783 /* ViewLayoutForEach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutForEach.swift; sourceTree = "<group>"; };
+		46E8995925D9F73B000C0783 /* ViewLayoutZStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutZStack.swift; sourceTree = "<group>"; };
+		46E8995A25D9F73B000C0783 /* ViewLayoutZStackAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutZStackAlignment.swift; sourceTree = "<group>"; };
+		46E8995B25D9F73B000C0783 /* ViewLayoutVStackSpacer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewLayoutVStackSpacer.swift; sourceTree = "<group>"; };
+		46E8995D25D9F73B000C0783 /* ViewsAndControlsSecureField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsSecureField.swift; sourceTree = "<group>"; };
+		46E8995E25D9F73B000C0783 /* ViewsAndControlsButtonII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsButtonII.swift; sourceTree = "<group>"; };
+		46E8995F25D9F73B000C0783 /* ViewsAndControlsButtonI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsButtonI.swift; sourceTree = "<group>"; };
+		46E8996025D9F73B000C0783 /* ViewsAndControlsTextI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsTextI.swift; sourceTree = "<group>"; };
+		46E8996125D9F73B000C0783 /* ViewsAndControlsTextFieldII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsTextFieldII.swift; sourceTree = "<group>"; };
+		46E8996225D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsResizeableImage.swift; sourceTree = "<group>"; };
+		46E8996325D9F73B000C0783 /* ViewsAndControlsSFSymbol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsSFSymbol.swift; sourceTree = "<group>"; };
+		46E8996425D9F73B000C0783 /* ViewsAndControlsTextII.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsTextII.swift; sourceTree = "<group>"; };
+		46E8996525D9F73B000C0783 /* ViewsAndControlsImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsImage.swift; sourceTree = "<group>"; };
+		46E8996625D9F73B000C0783 /* ViewsAndControlsTextFieldI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewsAndControlsTextFieldI.swift; sourceTree = "<group>"; };
+		46E8996825D9F73B000C0783 /* ShapesEllipse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesEllipse.swift; sourceTree = "<group>"; };
+		46E8996925D9F73B000C0783 /* ShapesCapsule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesCapsule.swift; sourceTree = "<group>"; };
+		46E8996A25D9F73B000C0783 /* ShapesRoundedRectangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesRoundedRectangle.swift; sourceTree = "<group>"; };
+		46E8996B25D9F73B000C0783 /* ShapesCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesCircle.swift; sourceTree = "<group>"; };
+		46E8996C25D9F73B000C0783 /* ShapesRectangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesRectangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +114,9 @@
 		46E8993325D9F157000C0783 /* SwiftUIBasics */ = {
 			isa = PBXGroup;
 			children = (
+				46E8996725D9F73B000C0783 /* Shapes */,
+				46E8994F25D9F73B000C0783 /* View Layout */,
+				46E8995C25D9F73B000C0783 /* Views and Controls */,
 				46E8993425D9F157000C0783 /* SwiftUIBasicsApp.swift */,
 				46E8993625D9F157000C0783 /* ContentView.swift */,
 				46E8994A25D9F5D3000C0783 /* ViewChartExample.swift */,
@@ -76,6 +133,54 @@
 				46E8993B25D9F158000C0783 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		46E8994F25D9F73B000C0783 /* View Layout */ = {
+			isa = PBXGroup;
+			children = (
+				46E8995025D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift */,
+				46E8995125D9F73B000C0783 /* ViewLayoutVStack.swift */,
+				46E8995225D9F73B000C0783 /* ViewLayoutList.swift */,
+				46E8995325D9F73B000C0783 /* ViewLayoutHStack.swift */,
+				46E8995425D9F73B000C0783 /* ViewLayoutScrollVertical.swift */,
+				46E8995525D9F73B000C0783 /* ViewLayoutGroup.swift */,
+				46E8995625D9F73B000C0783 /* ViewLayoutZStackIgnore.swift */,
+				46E8995725D9F73B000C0783 /* ViewLayoutHStackSpacer.swift */,
+				46E8995825D9F73B000C0783 /* ViewLayoutForEach.swift */,
+				46E8995925D9F73B000C0783 /* ViewLayoutZStack.swift */,
+				46E8995A25D9F73B000C0783 /* ViewLayoutZStackAlignment.swift */,
+				46E8995B25D9F73B000C0783 /* ViewLayoutVStackSpacer.swift */,
+			);
+			path = "View Layout";
+			sourceTree = "<group>";
+		};
+		46E8995C25D9F73B000C0783 /* Views and Controls */ = {
+			isa = PBXGroup;
+			children = (
+				46E8995D25D9F73B000C0783 /* ViewsAndControlsSecureField.swift */,
+				46E8995E25D9F73B000C0783 /* ViewsAndControlsButtonII.swift */,
+				46E8995F25D9F73B000C0783 /* ViewsAndControlsButtonI.swift */,
+				46E8996025D9F73B000C0783 /* ViewsAndControlsTextI.swift */,
+				46E8996125D9F73B000C0783 /* ViewsAndControlsTextFieldII.swift */,
+				46E8996225D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift */,
+				46E8996325D9F73B000C0783 /* ViewsAndControlsSFSymbol.swift */,
+				46E8996425D9F73B000C0783 /* ViewsAndControlsTextII.swift */,
+				46E8996525D9F73B000C0783 /* ViewsAndControlsImage.swift */,
+				46E8996625D9F73B000C0783 /* ViewsAndControlsTextFieldI.swift */,
+			);
+			path = "Views and Controls";
+			sourceTree = "<group>";
+		};
+		46E8996725D9F73B000C0783 /* Shapes */ = {
+			isa = PBXGroup;
+			children = (
+				46E8996825D9F73B000C0783 /* ShapesEllipse.swift */,
+				46E8996925D9F73B000C0783 /* ShapesCapsule.swift */,
+				46E8996A25D9F73B000C0783 /* ShapesRoundedRectangle.swift */,
+				46E8996B25D9F73B000C0783 /* ShapesCircle.swift */,
+				46E8996C25D9F73B000C0783 /* ShapesRectangle.swift */,
+			);
+			path = Shapes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,9 +254,36 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46E8997D25D9F73B000C0783 /* ViewsAndControlsTextFieldII.swift in Sources */,
+				46E8998525D9F73B000C0783 /* ShapesRoundedRectangle.swift in Sources */,
+				46E8997725D9F73B000C0783 /* ViewLayoutZStackAlignment.swift in Sources */,
+				46E8996F25D9F73B000C0783 /* ViewLayoutList.swift in Sources */,
+				46E8997C25D9F73B000C0783 /* ViewsAndControlsTextI.swift in Sources */,
 				46E8994B25D9F5D3000C0783 /* ViewChartExample.swift in Sources */,
+				46E8997025D9F73B000C0783 /* ViewLayoutHStack.swift in Sources */,
+				46E8997B25D9F73B000C0783 /* ViewsAndControlsButtonI.swift in Sources */,
+				46E8997925D9F73B000C0783 /* ViewsAndControlsSecureField.swift in Sources */,
+				46E8998425D9F73B000C0783 /* ShapesCapsule.swift in Sources */,
+				46E8998625D9F73B000C0783 /* ShapesCircle.swift in Sources */,
+				46E8997A25D9F73B000C0783 /* ViewsAndControlsButtonII.swift in Sources */,
+				46E8997525D9F73B000C0783 /* ViewLayoutForEach.swift in Sources */,
+				46E8997125D9F73B000C0783 /* ViewLayoutScrollVertical.swift in Sources */,
 				46E8993725D9F157000C0783 /* ContentView.swift in Sources */,
+				46E8997625D9F73B000C0783 /* ViewLayoutZStack.swift in Sources */,
+				46E8997F25D9F73B000C0783 /* ViewsAndControlsSFSymbol.swift in Sources */,
+				46E8998125D9F73B000C0783 /* ViewsAndControlsImage.swift in Sources */,
+				46E8997825D9F73B000C0783 /* ViewLayoutVStackSpacer.swift in Sources */,
+				46E8998325D9F73B000C0783 /* ShapesEllipse.swift in Sources */,
+				46E8996D25D9F73B000C0783 /* ViewLayoutScrollHorizontal.swift in Sources */,
+				46E8998025D9F73B000C0783 /* ViewsAndControlsTextII.swift in Sources */,
 				46E8993525D9F157000C0783 /* SwiftUIBasicsApp.swift in Sources */,
+				46E8996E25D9F73B000C0783 /* ViewLayoutVStack.swift in Sources */,
+				46E8998225D9F73B000C0783 /* ViewsAndControlsTextFieldI.swift in Sources */,
+				46E8997325D9F73B000C0783 /* ViewLayoutZStackIgnore.swift in Sources */,
+				46E8997225D9F73B000C0783 /* ViewLayoutGroup.swift in Sources */,
+				46E8997E25D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift in Sources */,
+				46E8997425D9F73B000C0783 /* ViewLayoutHStackSpacer.swift in Sources */,
+				46E8998725D9F73B000C0783 /* ShapesRectangle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
