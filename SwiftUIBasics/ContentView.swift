@@ -9,8 +9,16 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        NavigationView {
+            List {
+                ForEach(examples, id: \.name) { example in
+                    NavigationLink(destination: ExampleView(example)) {
+                        Text(verbatim: example.name)
+                    }
+                }
+            }
+            .navigationBarTitle(Text("Examples"))
+        }
     }
 }
 

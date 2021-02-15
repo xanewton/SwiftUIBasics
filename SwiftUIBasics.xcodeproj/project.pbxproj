@@ -41,6 +41,8 @@
 		46E8998525D9F73B000C0783 /* ShapesRoundedRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996A25D9F73B000C0783 /* ShapesRoundedRectangle.swift */; };
 		46E8998625D9F73B000C0783 /* ShapesCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996B25D9F73B000C0783 /* ShapesCircle.swift */; };
 		46E8998725D9F73B000C0783 /* ShapesRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8996C25D9F73B000C0783 /* ShapesRectangle.swift */; };
+		46E8998B25D9FA92000C0783 /* ExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8998A25D9FA92000C0783 /* ExampleView.swift */; };
+		46E8998E25D9FAD2000C0783 /* BasicExamples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46E8998D25D9FAD2000C0783 /* BasicExamples.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +82,8 @@
 		46E8996A25D9F73B000C0783 /* ShapesRoundedRectangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesRoundedRectangle.swift; sourceTree = "<group>"; };
 		46E8996B25D9F73B000C0783 /* ShapesCircle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesCircle.swift; sourceTree = "<group>"; };
 		46E8996C25D9F73B000C0783 /* ShapesRectangle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapesRectangle.swift; sourceTree = "<group>"; };
+		46E8998A25D9FA92000C0783 /* ExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExampleView.swift; sourceTree = "<group>"; };
+		46E8998D25D9FAD2000C0783 /* BasicExamples.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicExamples.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,12 +118,14 @@
 		46E8993325D9F157000C0783 /* SwiftUIBasics */ = {
 			isa = PBXGroup;
 			children = (
-				46E8996725D9F73B000C0783 /* Shapes */,
-				46E8994F25D9F73B000C0783 /* View Layout */,
 				46E8995C25D9F73B000C0783 /* Views and Controls */,
+				46E8994F25D9F73B000C0783 /* View Layout */,
+				46E8996725D9F73B000C0783 /* Shapes */,
 				46E8993425D9F157000C0783 /* SwiftUIBasicsApp.swift */,
 				46E8993625D9F157000C0783 /* ContentView.swift */,
 				46E8994A25D9F5D3000C0783 /* MyChartView.swift */,
+				46E8998A25D9FA92000C0783 /* ExampleView.swift */,
+				46E8998D25D9FAD2000C0783 /* BasicExamples.swift */,
 				46E8993825D9F158000C0783 /* Assets.xcassets */,
 				46E8993D25D9F158000C0783 /* Info.plist */,
 				46E8993A25D9F158000C0783 /* Preview Content */,
@@ -258,6 +264,7 @@
 				46E8998525D9F73B000C0783 /* ShapesRoundedRectangle.swift in Sources */,
 				46E8997725D9F73B000C0783 /* ViewLayoutZStackAlignment.swift in Sources */,
 				46E8996F25D9F73B000C0783 /* ViewLayoutList.swift in Sources */,
+				46E8998B25D9FA92000C0783 /* ExampleView.swift in Sources */,
 				46E8997C25D9F73B000C0783 /* ViewsAndControlsTextI.swift in Sources */,
 				46E8994B25D9F5D3000C0783 /* MyChartView.swift in Sources */,
 				46E8997025D9F73B000C0783 /* ViewLayoutHStack.swift in Sources */,
@@ -282,6 +289,7 @@
 				46E8997325D9F73B000C0783 /* ViewLayoutZStackIgnore.swift in Sources */,
 				46E8997225D9F73B000C0783 /* ViewLayoutGroup.swift in Sources */,
 				46E8997E25D9F73B000C0783 /* ViewsAndControlsResizeableImage.swift in Sources */,
+				46E8998E25D9FAD2000C0783 /* BasicExamples.swift in Sources */,
 				46E8997425D9F73B000C0783 /* ViewLayoutHStackSpacer.swift in Sources */,
 				46E8998725D9F73B000C0783 /* ShapesRectangle.swift in Sources */,
 			);

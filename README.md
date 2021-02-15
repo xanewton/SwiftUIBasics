@@ -5,7 +5,8 @@ eBook source code available at [github](https://github.com/PacktPublishing/Swift
 
 <p float="left">
   <img src="/readmeImages/list.png" width="20%" height="20%">
-  <img src="/readmeImages/details.png" width="20%" height="20%">
+  <img src="/readmeImages/ellipse.png" width="20%" height="20%">
+  <img src="/readmeImages/scroll.png" width="20%" height="20%">
 </p>
 
 
